@@ -1,0 +1,20 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #084d6e;
+}
+
+body {
+    margin: 2rem 20rem 2rem 2rem;
+    line-height: 1.5;
+}
+
+a {
+    background-color: #1e7fac;
+    padding: 0.2rem;
+}
+
+input, button {
+    padding: 0.5rem 0.2rem;
+    font-size: 1.1rem;
+}
